@@ -1,0 +1,29 @@
+.main-title {
+    font-size:48px;
+    color:rgb(66, 140, 209);
+}
+
+.title-carbonara {
+    color:rgb(66, 140, 209);
+}
+
+.ingredients {
+    color:red;
+}
+
+.long-island-title {
+    color:red;
+}
+
+.back-home {
+    font-size:22px;
+}
+
+.steps,
+.description {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.steps-title {
+    background-color: aquamarine;
+}
